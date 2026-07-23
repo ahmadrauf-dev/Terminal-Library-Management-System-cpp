@@ -2,6 +2,9 @@
 
 A console based Library manegement system built in c++ by using concepts of Object ORiented Programing
 
+## Password for Admin
+- Password for admin login is "library345"
+
 ## Features
 
 - List all available books
