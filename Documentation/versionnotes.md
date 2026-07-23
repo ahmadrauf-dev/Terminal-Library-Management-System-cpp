@@ -1,6 +1,8 @@
-Library Management System V1.0
+Library Management System V1.1
 
 Current features Available:
+- Admin Login
+- User Login
 - List Books
 - Add Books
 - Issue Books
